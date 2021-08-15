@@ -1,0 +1,12 @@
+CLI - Command Line Interface
+pwd - present working directory
+ls - list files
+cd - change directory
+
+Command Line Directory
+
+mkdir - make new directory/folder
+touch - to create a file
+
+HTML - Skeleton of Webpage
+!DOCTYPE - HTML5
