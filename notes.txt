@@ -10,3 +10,16 @@ touch - to create a file
 
 HTML - Skeleton of Webpage
 !DOCTYPE - HTML5
+
+coolors.co (fonts & colors)
+https://freecoursesite.com/tag/modern-javascript/
+
+https://www.linkedin.com/in/abdulbasit-gamoranao-2b012b121/
+https://www.linkedin.com/in/athenaabe/
+https://www.linkedin.com/in/mjcarnaje/
+https://www.linkedin.com/in/charmaine-arceta/
+https://www.linkedin.com/in/mjcarnaje/
+https://www.linkedin.com/in/sggranil/
+https://www.linkedin.com/in/bryanogena
+
+https://sggranil.github.io/blog/
